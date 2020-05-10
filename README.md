@@ -20,15 +20,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="#Description">Description</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#computer-languages">Languages</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#books-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#install">Install</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#books-usage">Usage</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-license">License</a>
-</p>
-
 ## 🔖 Sobre
 
 nesse projeto, criamos um contexto de carrinho para abranger todo o aplicativo. Nesse contexto, criamos alguns hooks para gerenciar o estado dos produtos sobre o aplicativo. Basicamente, criamos um useEffect para ouvir todas as alterações e salvá-las no AsyncStorage, para não perder o carrinho ao sair do aplicativo, e criamos os hooks (incremento e decremento) para gerenciar o estado dos produtos.
