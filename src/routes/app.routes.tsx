@@ -7,6 +7,7 @@ import FeatherIcon from 'react-native-vector-icons/Feather';
 
 import Dashboard from '../pages/Dashboard';
 import Cart from '../pages/Cart';
+import Info from '../pages/Info';
 
 import Logo from '../assets/logo.png';
 
@@ -42,6 +43,20 @@ const AppRoutes: React.FC = () => (
       }}
       name="Cart"
       component={Cart}
+    />
+    <App.Screen
+      options={{
+        headerTransparent: true,
+        headerTitle: () => <Image source={Logo} />,
+        headerBackTitleVisible: false,
+        headerLeftContainerStyle: {
+          marginLeft: 20,
+        },
+
+        headerBackImage: () => <FeatherIcon name="chevron-left" size={24} />,
+      }}
+      name="Info"
+      component={Info}
     />
   </App.Navigator>
 );

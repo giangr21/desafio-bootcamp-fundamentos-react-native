@@ -22,7 +22,45 @@
       "id": "4",
       "title": "O milagre da manha",
       "image_url": "https://img.travessa.com.br/livro/BA/2a/2adce8c5-b885-4b89-8939-a26cdecb0de9.jpg",
+      "price": 20,
+      "description": "Conheça o método simples e eficaz que vai proporcionar a vida dos sonhos — antes das 8 horas da manhã! Hal Elrod explica os benefícios de acordar cedo e desenvolver todo o nosso potencial e as nossas habilidades. O milagre da manhã permite que o leitor alcance níveis de sucesso jamais imaginados, tanto na vida pessoal quanto profissional. A mudança de hábitos e a nova rotina matinal proposta por Hal vai proporcionar melhorias significativas na saúde, na felicidade, nos relacionamentos, nas finanças, na espiritualidade ou quaisquer outras áreas que necessitem ser aprimoradas."
+    },
+    {
+      "id": "5",
+      "title": "Nietzsche Para Estressados",
+      "image_url": "https://http2.mlstatic.com/nietzsche-para-estressados-allan-percy-sextante-2014-D_NQ_NP_648704-MLB26272949752_112017-F.jpg",
       "price": 20
+    },
+    {
+      "id": "6",
+      "title": "Os segredos da mente milionária",
+      "image_url": "https://kbimages1-a.akamaihd.net/7bebb67a-74f5-47bc-af88-f4afd3602901/353/569/90/False/os-segredos-da-mente-milionaria-1.jpg",
+      "price": 25
+    },
+    {
+      "id": "7",
+      "title": "Seja foda",
+      "image_url": "https://lojasaraiva.vteximg.com.br/arquivos/ids/12110827-287-426/1007686371.jpg?v=637142254732630000",
+      "price": 30
+    },
+    {
+      "id": "8",
+      "title": "As 16 Leis do Sucesso Napoleão Hill",
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/51mKUBbT+dL._SX340_BO1,204,203,200_.jpg",
+      "price": 20
+    },
+    {
+      "id": "9",
+      "title": "Mindset",
+      "image_url": "https://lojasaraiva.vteximg.com.br/arquivos/ids/12109004/1008976499.jpg?v=637142247801500000",
+      "price": 30,
+      "description": "Carol S. Dweck, professora de psicologia na Universidade Stanford e especialista internacional em sucesso e motivação, desenvolveu, ao longo de décadas de pesquisa, um conceito fundamental: a atitude mental com que encaramos a vida, que ela chama de “mindset”, é crucial para o sucesso. Dweck revela de forma brilhante como o sucesso pode ser alcançado pela maneira como lidamos com nossos objetivos. O “mindset” não é um mero traço de personalidade, é a explicação de por que somos otimistas ou pessimistas, bem-sucedidos ou não. Ele define nossa relação com o trabalho e com as pessoas e a maneira como educamos nossos filhos. É um fator decisivo para que todo o nosso potencial seja explorado."
+    },
+    {
+      "id": "10",
+      "title": "A Sutil Arte De Ligar O F*da-Se",
+      "image_url": "https://lojasaraiva.vteximg.com.br/arquivos/ids/3241025/1008449071.jpg?v=637034105101630000",
+      "price": 30
     }
   ]
 }
