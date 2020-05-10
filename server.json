@@ -1,28 +1,28 @@
 {
   "products": [
     {
-      "id": "123",
-      "title": "Nome do produto 01",
-      "image_url": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/camiseta-ecommerce.jpg",
-      "price": 50
+      "id": "1",
+      "title": "O poder do hábito",
+      "image_url": "https://i.pinimg.com/originals/33/57/c4/3357c460e07c22c6a3d624081133c333.jpg",
+      "price": 20
     },
     {
-      "id": "1234",
-      "title": "Nome do produto 02",
-      "image_url": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/camiseta-ecommerce.jpg",
-      "price": 60
+      "id": "2",
+      "title": "Pense e enriqueça",
+      "image_url": "https://assets.xtechcommerce.com/uploads/images/medium/fd71eec72cb57e7968f85b2c3d8dd097.jpg",
+      "price": 25
     },
     {
-      "id": "12345",
-      "title": "Nome do produto 03",
-      "image_url": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/camiseta-ecommerce.jpg",
-      "price": 70
+      "id": "3",
+      "title": "O poder do agora",
+      "image_url": "https://lojasaraiva.vteximg.com.br/arquivos/ids/12099658-287-426/1006632390.jpg?v=637142214685570000",
+      "price": 30
     },
     {
-      "id": "123456",
-      "title": "Nome do produto 04",
-      "image_url": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/camiseta-ecommerce.jpg",
-      "price": 80
+      "id": "4",
+      "title": "O milagre da manha",
+      "image_url": "https://img.travessa.com.br/livro/BA/2a/2adce8c5-b885-4b89-8939-a26cdecb0de9.jpg",
+      "price": 20
     }
   ]
 }

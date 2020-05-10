@@ -21,11 +21,12 @@ import {
   ProductButton,
 } from './styles';
 
-interface Product {
+export interface Product {
   id: string;
   title: string;
   image_url: string;
   price: number;
+  quantity: number;
 }
 
 const Dashboard: React.FC = () => {
@@ -35,14 +36,23 @@ const Dashboard: React.FC = () => {
 
   useEffect(() => {
     async function loadProducts(): Promise<void> {
-      // TODO
+      const response = await api.get('products');
+      const produtos = response.data;
+      setProducts(produtos);
     }
 
     loadProducts();
   }, []);
 
   function handleAddToCart(item: Product): void {
-    // TODO
+    // const product = {
+    //   id: item.id,
+    //   title: item.title,
+    //   image_url: item.image_url,
+    //   price: item.price,
+    //   quantity: 1,
+    // };
+    addToCart(item);
   }
 
   return (
